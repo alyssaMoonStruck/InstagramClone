@@ -1,10 +1,10 @@
 import "../styles/suggestions.scss";
-import Profile from './Profile';
+import Profile from "./Profile";
 
 function Suggestions() {
     return (
         <div className="suggestions">
-            <div className="titleContaner">
+            <div className="titleContainer">
                 <div className="title">Suggestions for you</div>
                 <a href="/"> See All</a>
         </div>

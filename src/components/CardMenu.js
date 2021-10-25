@@ -7,8 +7,14 @@ import { ReactComponent as Bookmark } from "../images/bookmark.svg";
 function CardMenu() {
     return (
     <div className="cardMenu">
-
-    </div>)
+        <div className="interactions">
+            <Notifications className="icon" />
+            <Comments className="icon" />
+            <Inbox className="icon" />
+    </div>
+    <Bookmark className="icon" />
+</div>
+    )
 }
 
 export default CardMenu;

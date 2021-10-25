@@ -1,6 +1,5 @@
 import "../styles/App.scss"
 import Navigation from "./Navigation"
-import Menu from './Menu'
 import Cards from "./Cards";
 import Sidebar from "./Sidebar"
 

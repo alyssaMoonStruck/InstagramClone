@@ -1,8 +1,12 @@
 import "../styles/comment.scss";
 
-function Comment() {
+function Comment(props) {
+    const { accountName, comment } = props;
+
     return (
-    <div className="comment">
+    <div className="commentContainer">
+        <div className="accountName">{accountName}</div>
+        <div className="comment">{comment}</div>
 
     </div>)
 }

@@ -10,7 +10,7 @@ function Profile(props) {
         iconSize,
         captionSize,
         storyBorder,
-        hiddenAccountName,
+        hideAccountName,
         image
     } = props;
     console.log(users)
@@ -24,7 +24,7 @@ function Profile(props) {
             storyBorder={storyBorder}
             image={image}
             />
-            {(accountName || caption) && !hiddenAccountName && (
+            {(accountName || caption) && !hideAccountName && (
                 <div className="textContainer">
                     <span className="accountName">{accountName}</span>
                     <span className={`caption ${captionSize}`}>{caption}</span>
