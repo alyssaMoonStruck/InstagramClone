@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/InstagramClone/static/css/main.b1cdb4fe.chunk.css",
+    "main.js": "/InstagramClone/static/js/main.e141e21e.chunk.js",
+    "main.js.map": "/InstagramClone/static/js/main.e141e21e.chunk.js.map",
+    "runtime-main.js": "/InstagramClone/static/js/runtime-main.a58a0b42.js",
+    "runtime-main.js.map": "/InstagramClone/static/js/runtime-main.a58a0b42.js.map",
+    "static/js/2.01c71dba.chunk.js": "/InstagramClone/static/js/2.01c71dba.chunk.js",
+    "static/js/2.01c71dba.chunk.js.map": "/InstagramClone/static/js/2.01c71dba.chunk.js.map",
+    "index.html": "/InstagramClone/index.html",
+    "static/css/main.b1cdb4fe.chunk.css.map": "/InstagramClone/static/css/main.b1cdb4fe.chunk.css.map",
+    "static/js/2.01c71dba.chunk.js.LICENSE.txt": "/InstagramClone/static/js/2.01c71dba.chunk.js.LICENSE.txt",
+    "static/media/bookmark.5b258477.svg": "/InstagramClone/static/media/bookmark.5b258477.svg",
+    "static/media/bun.daacd4a7.jpg": "/InstagramClone/static/media/bun.daacd4a7.jpg",
+    "static/media/cardButton.1f69b272.svg": "/InstagramClone/static/media/cardButton.1f69b272.svg",
+    "static/media/comments.a2df0ff8.svg": "/InstagramClone/static/media/comments.a2df0ff8.svg",
+    "static/media/explore.e2e7d556.svg": "/InstagramClone/static/media/explore.e2e7d556.svg",
+    "static/media/home.dd4ff891.svg": "/InstagramClone/static/media/home.dd4ff891.svg",
+    "static/media/inbox.1a02372d.svg": "/InstagramClone/static/media/inbox.1a02372d.svg",
+    "static/media/notifications.44487f15.svg": "/InstagramClone/static/media/notifications.44487f15.svg",
+    "static/media/search.6c95e853.svg": "/InstagramClone/static/media/search.6c95e853.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a58a0b42.js",
+    "static/js/2.01c71dba.chunk.js",
+    "static/css/main.b1cdb4fe.chunk.css",
+    "static/js/main.e141e21e.chunk.js"
+  ]
+}
