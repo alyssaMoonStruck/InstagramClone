@@ -18,7 +18,7 @@ function Suggestions() {
         />
 
         <Profile 
-        caption="Followed by Saphora and + 3more"
+        caption="Followed by NYX and + 7more"
         urlText="Follow"
         iconSize="medium"
         captionSize="small"
@@ -26,12 +26,29 @@ function Suggestions() {
         />
 
         <Profile 
-        caption="Followed by Saphora and + 3more"
+        caption="Followed by Pototato and + 2more"
         urlText="Follow"
         iconSize="medium"
         captionSize="small"
         storyBorder={true}
         />  
+
+        <Profile 
+        caption="Followed by Morphe and + 1more"
+        urlText="Follow"
+        iconSize="medium"
+        captionSize="small"
+        storyBorder={true}
+        /> 
+
+        <Profile 
+        caption="Followed by Nintendo and + 3more"
+        urlText="Follow"
+        iconSize="medium"
+        captionSize="small"
+        storyBorder={true}
+        /> 
+        
     </div>
     );
 }
